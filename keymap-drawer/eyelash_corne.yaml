@@ -4,9 +4,9 @@ layers:
   - {t: '$$mdi:keyboard-tab$$', h: '$$mdi:apple-keyboard-option$$'}
   - {t: Q, h: Alt+1}
   - {t: W, h: Alt+2}
-  - {t: E, h: Alt+3}
+  - {t: E, h: Sft+Alt+Gui+E}
   - {t: R, h: Ctl+Y}
-  - {t: T, h: Sft+Alt+Gui+T}
+  - T
   - $$mdi:arrow-up-bold$$
   - Y
   - U
@@ -16,7 +16,7 @@ layers:
   - {t: '$$mdi:backspace$$', h: '$$mdi:apple-keyboard-option$$'}
   - $$mdi:apple-keyboard-shift$$
   - {t: A, h: Ctl+A}
-  - S
+  - {t: S, h: Alt+3}
   - {t: D, h: Sft+Alt+Gui+D}
   - {t: F, h: Ctl+F}
   - {t: G, h: Ctl+G}
